@@ -1,6 +1,5 @@
 ﻿using Domain.Entities;
 using Domain.Interfaces;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 
 namespace PadelAPI.Controllers

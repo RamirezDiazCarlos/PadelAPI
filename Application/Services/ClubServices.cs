@@ -1,7 +1,6 @@
 ﻿using Domain;
 using Domain.Entities;
 using Domain.Interfaces;
-using System.Collections.Generic;
 
 namespace Application.Services
 {

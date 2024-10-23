@@ -2,7 +2,7 @@
 using Domain.Entities;
 using Microsoft.AspNetCore.Mvc;
 
-namespace API.Controllers
+namespace PadelAPI.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
